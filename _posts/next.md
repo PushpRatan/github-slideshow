@@ -3,4 +3,6 @@ layout: slide
 title: "Welcome! this is Pushp Ratan's Slide"
 ---
 
-Use the right arrow to begin!
+1. First
+1. Second
+1. Third
