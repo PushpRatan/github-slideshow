@@ -4,7 +4,7 @@ title: Pushp Ratan's Slide
 ---
 Niranjan|Bharti
 -|-
-Neel|Ratan
+Neel|Ratn
 Pushp|Ratan
 Anupam|Anand
 Biplav|Bipul   
