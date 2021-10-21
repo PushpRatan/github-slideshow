@@ -1,5 +1,6 @@
 ---
 layout: slide
+title: "Pushp Ratan's Site"
 ---
 Both *First* and _second_ are italic.   
 Both **First** and __Second__ are bold.  
