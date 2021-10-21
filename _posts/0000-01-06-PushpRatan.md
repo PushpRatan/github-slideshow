@@ -2,6 +2,8 @@
 layout: slide
 title: Pushp Ratan's Slide
 ---
+##### A Table Representation
+
 Niranjan|Bharti
 -|-
 Neel|Ratn
