@@ -1,6 +1,6 @@
 ---
 layout: slide
-##### Welcome! this is Pushp Ratan's Slide
+title: "Pushp Ratan's Slide"
 ---
 
 1. First
