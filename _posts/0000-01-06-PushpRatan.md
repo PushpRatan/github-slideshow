@@ -2,7 +2,7 @@
 layout: slide
 title: Pushp Ratan's Slide
 ---
-###### Niranjan|###### Bharti
+###### Niranjan| ###### Bharti
 -|-
 Neel|Ratan
 Pushp|Ratan
